@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css?family=Muli:300,700&display=swap");
+
+.container{
+    /* border-radius: 11px; */
+    display: flex;
+    flex-wrap: wrap;
+    /* justify-content: center;
+    align-items: center; */
+    border: 57px solid #12242e;
+    height: 549px;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.merg{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: auto;
+}
+
+.community{
+    background-color: rgb(255, 253, 253);
+    width: 100%;
+}
+
+.why-us{
+    background-color: rgba(85, 145, 142, 0.698);
+    width: 50%;
+    color: white;
+}
+
+.card{
+    background-color: rgb(15, 67, 66);
+    width: 50%;
+}
+
+.btn{
+    /* display: flex;
+    justify-content: center; */
+    color: white;
+    background-color: rgb(132, 207, 10);
+    border-radius: 12px;
+    width: 260px;
+    height: 57px;
+    border: none;
+    font-size: x-large;
+}
+
+body {
+    margin: 0;
+  }
